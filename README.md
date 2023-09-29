@@ -25,6 +25,7 @@ Funcionalidades Principais:
 📺 Acesso Instantâneo às Videoaulas: Busque e visualize videoaulas usando códigos associados, garantindo aprendizado eficiente.
 📋 Visualização Personalizada de Notas: Com uma experiência centrada no usuário, cada estudante acessa suas notas individualmente, associadas à sua matrícula.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 Aplicativo Diagmed
 Descrição: Ferramenta especializada em diagnósticos detalhados de desempenho em simulados, auxiliando estudantes na jornada educacional.
