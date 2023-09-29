@@ -21,6 +21,7 @@ Funcionalidades Principais:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📱 Aplicativo Creatus (iOS e Android)
+
 Descrição: Extensão móvel da Plataforma Creatus, projetada para oferecer recursos essenciais na palma da mão dos usuários.
 
 Funcionalidades Principais:
@@ -34,6 +35,7 @@ Funcionalidades Principais:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 Aplicativo Diagmed
+
 Descrição: Ferramenta especializada em diagnósticos detalhados de desempenho em simulados, auxiliando estudantes na jornada educacional.
 
 Funcionalidades Principais:
