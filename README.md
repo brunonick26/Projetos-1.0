@@ -2,6 +2,7 @@
 
 🚀 Plataforma Creatus
 
+![Creatus](https://github.com/brunonick26/Projetos-1.0/assets/51274903/1a3e072b-c7f2-4fde-bb94-4e6358f50290)
 
 Descrição: Uma plataforma robusta desenvolvida para gerenciar o progresso educacional de estudantes, fornecendo ferramentas poderosas para educadores e administradores.
 
