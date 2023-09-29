@@ -36,6 +36,10 @@ Funcionalidades Principais:
 
 📊 Aplicativo Diagmed
 
+![1284x2778bb](https://github.com/brunonick26/Projetos-1.0/assets/51274903/7ede1184-da80-44ae-9ce8-b5009fe1bfcb)
+![1284x2778bb-2](https://github.com/brunonick26/Projetos-1.0/assets/51274903/753fefbe-326b-464c-a5da-909059170fc3)
+
+
 Descrição: Ferramenta especializada em diagnósticos detalhados de desempenho em simulados, auxiliando estudantes na jornada educacional.
 
 Funcionalidades Principais:
