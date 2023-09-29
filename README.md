@@ -1,7 +1,6 @@
 📌 Projetos
 
 🚀 Plataforma Creatus
-![Captura de Tela 2023-09-29 às 19 35 18](https://github.com/brunonick26/Projetos-1.0/assets/51274903/7f2bab6d-47fe-400f-9f55-355985ea3b17)
 
 
 Descrição: Uma plataforma robusta desenvolvida para gerenciar o progresso educacional de estudantes, fornecendo ferramentas poderosas para educadores e administradores.
