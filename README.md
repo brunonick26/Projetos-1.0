@@ -20,6 +20,11 @@ Funcionalidades Principais:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+
+
+
 📱 Aplicativo Creatus (iOS e Android)
 
 Descrição: Extensão móvel da Plataforma Creatus, projetada para oferecer recursos essenciais na palma da mão dos usuários.
@@ -33,6 +38,11 @@ Funcionalidades Principais:
 📋 Visualização Personalizada de Notas: Com uma experiência centrada no usuário, cada estudante acessa suas notas individualmente, associadas à sua matrícula.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 
 📊 Aplicativo Diagmed
 
